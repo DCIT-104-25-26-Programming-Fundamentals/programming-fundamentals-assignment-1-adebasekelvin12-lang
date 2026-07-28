@@ -30,7 +30,7 @@
 # - Numbers less than 2 are NOT prime — handle this inside the function.
 # - The main block must call the function and print the result.
 #
-
+#completed assignment 1
 # =============================================================================
 # YOUR CODE BELOW — remove the # symbols from the scaffold and fill it in
 # =============================================================================
